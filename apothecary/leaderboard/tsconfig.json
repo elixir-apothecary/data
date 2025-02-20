@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "types": [
+            "bun-types"
+        ],
+        "module": "esnext",
+        "target": "esnext",
+        "moduleResolution": "bundler",
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "allowJs": true,
+        "esModuleInterop": true
+    }
+}
