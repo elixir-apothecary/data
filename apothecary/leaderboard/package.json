@@ -1,6 +1,9 @@
 {
-  "dependencies": {},
   "devDependencies": {
     "bun-types": "^1.2.2"
+  },
+  "dependencies": {
+    "apache-arrow": "^19.0.1",
+    "parquetjs": "^0.11.2"
   }
 }
